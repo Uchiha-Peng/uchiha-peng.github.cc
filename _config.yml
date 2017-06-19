@@ -1,16 +1,16 @@
 # Site settings
-title: 明月逐舟
+title: 宇智波鹏
 header-img: "img/twitter.jpg"
 tagline: "cn"  
-description: "程飞飞"  
+description: "陈鹏"  
 baseurl: ""
-url: "http://chengfeifei"  
+url: "http://uchiha-peng"  
 
 # About/contact
 owner: 
-  name: "chengfeifei"
-  email: mr.chengfeifei@gmail.com
-  bio: "很高兴见到你"
+  name: "uchiha-peng"
+  email: uchiha-peng@outlook.com
+  bio: "Nice to meet you"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "chengfeifei"
+      author: "uchiha-peng"
       header-img: "img/twitter.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
