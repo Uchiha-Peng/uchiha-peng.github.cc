@@ -4,8 +4,6 @@
 
    > 查看常用指令
 
-   ​
-
    |   命令    |                   用法                   |
    | :-----: | :------------------------------------: |
    |   new   |              初始化 .NET 项目。              |
@@ -23,8 +21,7 @@
    |  list   |               列出项目中的引用。                |
    |  nuget  |             提供其他 NuGet 命令。             |
    | msbuild |      运行 Microsoft 生成引擎 (MSBuild)。      |
-   | vstest  |        运行 Microsoft 测试执行命令行工具。         |
-   ​
+   | vstest  |        运行 Microsoft 测试执行命令行工具。​        |
 
 2. dotnet --version
 
