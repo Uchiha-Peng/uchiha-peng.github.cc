@@ -1,5 +1,10 @@
-#### DotNet Core 常用命令
-
+---
+layout: post
+title: DotNet Core 常用命令
+date: 2017-12-14
+categories: blog
+tags: [笔记]
+---
 1. dotnet --help
 
    > 查看常用指令
