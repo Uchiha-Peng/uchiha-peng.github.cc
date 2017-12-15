@@ -21,5 +21,5 @@ header-img: "img/semantic.jpg"
 - [HR点这里](http://weibo.com/223417235/)
 
 <center>
-    <p><img src="/img/favicon.png.jpg" align="center"></p>
+    <p><img src="/img/favicon.png" align="center"></p>
 </center>
